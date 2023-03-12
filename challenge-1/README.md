@@ -1,6 +1,6 @@
 Write a functional component that imitates a log-in process. The component should be a form consisting of two input fields — for username and password — and a login button beneath them.
 
-<img src="1_JKCI6S5z3y4guStTvwvf6Q.webp" width="128"/>
+<img src="1_JKCI6S5z3y4guStTvwvf6Q.webp" width="560"/>
 
 
 A login form with username and password slots and a submit button
