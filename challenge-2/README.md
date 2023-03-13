@@ -42,6 +42,7 @@ React
    Pure components are the simplest and fastest components you can write. They can replace any component that only has render (). These components 	improve the simplicity of your code and the performance of your application.
 
 15.What are the pros and cons of the Server-Side-Rendering in React?
+
 Pros:
 - Fast initial loading of the web page since ready to display HTML is provided to the browser;
 - Great user experience even if the user has a bad connection, outdated device, or JavaScript disabled in the browser because all the basic content is ready to be rendered;
