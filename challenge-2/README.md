@@ -27,7 +27,17 @@ React
 - The conventional way to update state is to use the setState call. Without using it, the user would still be able to modify the state, but it would not update the DOM to reflect the new state.
 10. What is prop drilling?. Why is Prop Drilling a Problem?
 [Check here](https://medium.com/javascript-in-plain-english/how-to-avoid-prop-drilling-in-react-using-component-composition-c42adfcdde1b)
-// interview fresher
+
+
+
+
+
+
+
+
+
+
+
 1 số bài tập js core
 - Tính giai thừa của một số tự nhiên n!. Ví dụ: 5! = 5 * 4 * 3 * 2 * 1.
 - Kiểm tra 1 số là thuận nghịch 
