@@ -56,7 +56,13 @@ Cons:
 - Setting up SSR can be complicated and tedious.
 
 
+16. What is the pure components and impure components
 
+React components can be divided into two types: pure and impure. Pure components are components that only rely on their props and do not have any internal state or side effects. Impure components, on the other hand, have internal state or side effects that can change their output, even if their props remain the same.
+
+Pure components are faster and more efficient than impure components, because they can be memoized. Memoization is a technique that stores the output of a function, so that it can be returned again without recalculating the function. When a pure component is memoized, it can skip re-rendering if its props have not changed.
+
+Notice that this component does not have any internal state or side effects. It only relies on its props, which are passed down from its parent component. Since this component is pure, it can be memoized for better performance.
 
 
 
