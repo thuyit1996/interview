@@ -29,6 +29,19 @@ React
 11. What are higher-order components, what can you do with HOC
 [Check here](https://medium.com/javascript-in-plain-english/how-to-avoid-prop-drilling-in-react-using-component-composition-c42adfcdde1b)
 
+12. What do you mean by refs in React?
+ 
+ Refs is short for References in React. This is an attribute that helps to store a reference to a specific React element or component that will be returned by the component's render config function. It is used to return references to a specific element or component as returned by the render () function. They come in handy when we need DOM measurements or to add methods to components.
+
+13. List some cases when you should use Refs.
+ - When you need to control focus, choose to play text or media
+ - To start the required animation
+ - Integration with third-party DOM libraries
+ 
+ 14. What are Pure Components?
+   Pure components are the simplest and fastest components you can write. They can replace any component that only has render (). These components 	improve the simplicity of your code and the performance of your application.
+
+
 
 
 
