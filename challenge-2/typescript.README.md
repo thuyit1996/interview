@@ -4,6 +4,8 @@
 
 3.How to overload a function? Does TypeScript supports function overloading?
   Yes, TypeScript does support function overloading but the implementation is a bit different if we compare it to OO languages. We are creating just one function and a number of declarations so that TypeScript doesn't give compile errors. When this code is compiled to JavaScript, the concrete function alone will be visible. As a JavaScript function can be called by passing multiple arguments, it just works.
+  
+  
 class Foo {
     myMethod(a: string);
     myMethod(a: number);
