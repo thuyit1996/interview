@@ -47,6 +47,7 @@ Pros:
 - Great user experience even if the user has a bad connection, outdated device, or JavaScript disabled in the browser because all the basic content is ready to be rendered;
 - The content of the web page is indexed quicker resulting in better SEO ranking;
 - A great option for static pages since server-side rendering loads the content promptly and efficiently.
+
 Cons: 
 - SSR needs more resources and can be expensive since all the processing is done on the server;
 - For complex applications, the high number of server requests can slow down the site;
