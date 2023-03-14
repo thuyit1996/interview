@@ -41,3 +41,6 @@ ngOnDestroy: Is called just before the directive is destroyed.
 9. What are dynamic components?
  
 Dynamic components are the components in which the component's location in the application is not defined at build time i.e. they are not used in any angular template. Instead, the component is instantiated and placed in the application at runtime.
+
+10. Ngrx
+11. Rxjs
