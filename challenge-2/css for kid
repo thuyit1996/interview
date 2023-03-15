@@ -1,0 +1,24 @@
+1.What is the difference between inline, inline-block, and block?
+
+- Block Element: The block elements always start on a new line. They will also take space for an entire row or width. List of block elements are <div>, <p>.
+
+- Inline Elements: Inline elements don't start on a new line, they appear on the same line as the content and tags beside them. Some examples of inline elements are <a>, <span> , <strong>, and <img> tags. 
+
+- Inline Block Elements: Inline-block elements are similar to inline elements, except they can have padding and margins and set height and width values.
+
+2. How to center align a div inside another div?
+
+3. What are the different ways to hide the element using CSS?
+4. What does * { box-sizing: border-box; } do? What are its advantages?
+
+It makes every element in the document include the padding and border in the element’s inner dimension for the height and width computation.  
+In box-sizing: border-box, The height of an element is now calculated by the content's height + vertical padding + vertical border width.
+The width of an element is now calculated by the content's width + horizontal padding + horizontal border width.
+
+5. Do you know canvas?. How to draw a canvas 
+
+var canvas = document.getElementById("myCanvas");
+var ctx = canvas.getContext("2d");
+ctx.fillStyle = "#FF0000";
+ctx.fillRect(0, 0, 150, 75);
+6. Grid box and flexbox
