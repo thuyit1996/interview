@@ -40,4 +40,5 @@ class Foo {
 12. Is it possible to generate TypeScript declaration files from JS library?
 https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html
 13. utility types and example. https://www.typescriptlang.org/docs/handbook/utility-types.html
+14. Create a example class with typescript 
 
